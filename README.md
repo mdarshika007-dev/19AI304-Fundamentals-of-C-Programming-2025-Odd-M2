@@ -14,7 +14,7 @@
   F: below 50
   
   The program should display the average marks up to two decimal places and the corresponding grade. 
-  
+ 
 # Date : 
 # Aim:
  To build a C program that receives inputs for a student’s marks in three subjects, calculates the average, and determines the grade using nested if-else statements with safe floating-point comparisons.
